@@ -90,14 +90,13 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "iLyass-bq",
-      "repo": "auto-update-test-6",
-      "private": false
+      "owner": "electron-react-boilerplate",
+      "repo": "electron-react-boilerplate"
     }
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iLyass-bq/auto-update-test-6.git"
+    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
   },
   "author": {
     "name": "Electron React Boilerplate Maintainers",

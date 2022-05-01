@@ -8,7 +8,7 @@ const Hello = () => {
       <div className="Hello">
         <img width="200px" alt="icon" src={icon} />
       </div>
-      <h1>auto-update-test v1</h1>
+      <h1>auto-update-test v1.2</h1>
       <div className="Hello">
         <a
           href="https://electron-react-boilerplate.js.org/"
