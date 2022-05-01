@@ -1,10 +1,10 @@
 {
-  "name": "auto-update-test",
-  "version": "0.1.0",
-  "description": "testing auto updates",
+  "name": "electron-react-boilerplate",
+  "version": "0.1.1",
+  "description": "A foundation for scalable desktop apps",
   "main": "./dist/main/main.js",
   "author": {
-    "name": "less",
+    "name": "Electron React Boilerplate Maintainers",
     "email": "electronreactboilerplate@gmail.com",
     "url": "https://github.com/electron-react-boilerplate"
   },
